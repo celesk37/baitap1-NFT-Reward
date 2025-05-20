@@ -1,0 +1,15 @@
+{
+  "name": "base-nft-viewer",
+  "version": "1.0.0",
+  "description": "Ứng dụng xem NFT trên BASE Mainnet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
